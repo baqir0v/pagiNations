@@ -1,0 +1,124 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "manufacturer": "AMD",
+        "category": "Processor",
+        "model": "Ryzen 7 7800X3D",
+        "image": "https://www.amd.com/system/files/styles/992px/private/2022-12/1728141-amd-ryzen-3d-vcache-7-right-1260x709.png?itok=tUCbsM1m",
+        "price": 369
+      },
+      {
+        "id": 2,
+        "manufacturer": "AMD",
+        "category": "Processor",
+        "model": "Ryzen 9 7950x",
+        "image": "https://www.amd.com/system/files/styles/992px/private/2022-11/1761310-amd-ryzen-9-7000-series-PIB-angle-1260x709.png?itok=RwZB4na8",
+        "price": 489
+      },
+      {
+        "id": 3,
+        "manufacturer": "ASUS",
+        "category": "MotherBoard",
+        "model": "ROG Crosshair X670E Hero",
+        "image": "https://dlcdnwebimgs.asus.com/gain/F17834FA-586C-40FA-A2AD-24D07A3431A0/w717/h525",
+        "price": 699
+      },
+      {
+        "id": 4,
+        "manufacturer": "ASUS",
+        "category": "MotherBoard",
+        "model": "ROG Strix X670E-E Gaming Wifi",
+        "image": "https://dlcdnwebimgs.asus.com/gain/BADFA920-702B-451B-9592-8279ACD6857B",
+        "price": 499
+      },
+      {
+        "id": 5,
+        "manufacturer": "G-Skill",
+        "category": "RAM",
+        "model": "Trident Z5 RGB 8000Mhz",
+        "image": "https://www.gskill.com/img/overview/tz5-rgb-splave/01-trident-z5-rgb-splave-main.png",
+        "price": 189
+      },
+      {
+        "id": 6,
+        "manufacturer": "Corsair",
+        "category": "RAM",
+        "model": "Dominator RGB 8000Mhz",
+        "image": "https://www.corsair.com/wp-content/uploads/2022/06/DOMINATOR_RGB_PLATINUM_BLACK_DDR5_RENDER_07-1536x1103.png",
+        "price": 209
+      },
+      {
+        "id": 7,
+        "manufacturer": "SeaGate",
+        "category": "Solid State Drive",
+        "model": "Firecuda 540 1TB",
+        "image": "https://www.seagate.com/content/dam/seagate/assets/products/gaming-drive/pc-gaming/firecuda-540-ssd/images/comparison-table-firecuda-540.png",
+        "price": 159
+      },
+      {
+        "id": 8,
+        "manufacturer": "Corsair",
+        "category": "Solid State Drive",
+        "model": "MP700 1TB",
+        "image": "https://www.ncwsa.co.za/wp-content/uploads/2023/08/MP700_GEN5_2TB_01.webp",
+        "price": 149
+      },
+      {
+        "id": 9,
+        "manufacturer": "ASUS",
+        "category": "Graphic Card",
+        "model": "ROG Strix GeForce RTX 4070 Ti",
+        "image": "https://dlcdnwebimgs.asus.com/gain/45B3F0A3-98F3-4940-A420-96384E8A4DC3",
+        "price": 819
+      },
+      {
+        "id": 10,
+        "manufacturer": "MSI",
+        "category": "Graphic Card",
+        "model": "GeForce RTX 4090 Gaming X Trio",
+        "image": "https://asset.msi.com/resize/image/global/product/product_16655531780ae76e91e577ad9719f1f135824e1a15.png62405b38c58fe0f07fcef2367d8a9ba1/600.png",
+        "price": 1799
+      },
+      {
+        "id": 11,
+        "manufacturer": "SeaSonic",
+        "category": "Power Supply",
+        "model": "PRIME PX1000",
+        "image": "https://seasonic.com/pub/media/catalog/product/cache/3cbda8e892dc62fc02660815c2a4b231/a/t/atx3-prime-tx-1600-1300-px-1600-back-panel-angled_1.png",
+        "price": 219
+      },
+      {
+        "id": 12,
+        "manufacturer": "Corsair",
+        "category": "Power Supply",
+        "model": "HX1000i",
+        "image": "https://hwbusters.com/wp-content/uploads/2022/09/Corsair_HX1000i.webp",
+        "price": 189
+      },
+      {
+        "id": 13,
+        "manufacturer": "Corsair",
+        "category": "Cooler",
+        "model": "ICUE LINK H150i LCD",
+        "image": "https://assets.corsair.com/image/upload/c_pad,q_auto,h_1024,w_1024,f_auto/products/Liquid-Cooling/icue-link-lcd-aio/CW-9061008/iCUE_LINK_H150i_LCD_BLK_01.webp?width=1080&quality=85&auto=webp&format=pjpg",
+        "price": 319
+      },
+      {
+        "id": 14,
+        "manufacturer": "NZXT",
+        "category": "Cooler",
+        "model": "Kraken Elite 360 RGB",
+        "image": "https://nzxt.com/assets/cms/34299/1681857263-01_kraken-elite_black_rgb-core-fans_rgb_360.png?ar64=MTox&auto=format&fit=crop&h=400&w=400",
+        "price": 289
+      },
+      {
+        "id": 15,
+        "manufacturer": "Lian LI",
+        "category": "Case",
+        "model": "O11 Dynamic EVO",
+        "image": "https://lian-li.com/wp-content/uploads/2020/11/O11D-xl-s01-00.png",
+        "price": 139
+      }
+    ]
+  }
